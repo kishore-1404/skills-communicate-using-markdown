@@ -13,3 +13,7 @@ fn main(){
   let mut welcome = "Hi"
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
